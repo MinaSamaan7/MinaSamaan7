@@ -3,9 +3,6 @@
 🎓 Computer Science Student | 💻 Full Stack .NET Developer | 🧠 Problem Solver
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;Backend+%26+Frontend+Developer;C%23+%7C+ASP.NET+%7C+SQL;Problem+Solver;Software+Engineer" />
-</p>
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=MinaSamaanNachedMkary&theme=darkhub&row=2&column=9" />
