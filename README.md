@@ -37,11 +37,12 @@
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,c" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,flask,mysql,sqlite,git,github,visualstudio,vscode" />
 </p>
 
 ---
