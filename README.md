@@ -42,7 +42,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,flask,mysql,sqlite,git,github,visualstudio,vscode,php,bootstrap,js" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,cs,c,java,python,flask,mysql,sqlite,git,github,visualstudio,vscode,php,bootstrap,js,css,html" />
 </p>
 
 ---
